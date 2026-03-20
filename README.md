@@ -19,4 +19,5 @@ Aplicación para la gestión de eventos y venta de entradas.
 - Builder
 - Decorator
 - Composite
+- Adapter
 - Facade
